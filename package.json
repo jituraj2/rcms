@@ -11,3 +11,6 @@
     "react-scripts": "latest"
   }
 }
+"dependencies": {
+  "react-router-dom": "^6.0.0"
+}
