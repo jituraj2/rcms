@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build" # Change this if your build command is different
+  publish = "public" # Adjust to your output directory
+
+[context.production.environment]
+  GO_VERSION = "1.19"
